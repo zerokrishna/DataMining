@@ -1,0 +1,9 @@
+
+# Training and Validation Path
+path:'/content/gdrive/My Drive/Yolo11'
+train:images
+val:images
+
+# Classes
+names:
+  0 : NumberPlate
